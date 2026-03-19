@@ -1,0 +1,21 @@
+content_id,topic,thumbnail_text_a,thumbnail_text_b,thumbnail_text_final,style_preset,text_layout_preset,review_status,generation_pattern_a,generation_pattern_b
+shorts_001,휴대용 온풍기,이거 모르고 사면 후회,작은데 체감차이 큼,,review,bottom_big,approved,warning,curiosity
+shorts_002,극세사 전기담요,싼 거랑 차이 바로 남,겨울마다 다시 찾는 이유,,info,top_big,approved,comparison,reason
+shorts_003,무선 미니 청소기,이 기능 없으면 돈 버림,써보면 편한 핵심은 따로 있음,,review,bottom_big,approved,loss,benefit
+shorts_004,주방 정리선반,주방이 넓어 보이는 이유,정리 안 되는 집 특징,,compare,center_focus,approved,reason,mistake
+shorts_005,온열 목마사지기,목 뻐근할 때 차이 남,괜히 싼 거 샀다가 후회,,review,bottom_big,approved,benefit,mistake
+shorts_006,차량용 핸드폰 거치대,흔들리면 결국 다시 삼,이거 하나로 운전이 편해짐,,info,top_big,approved,loss,benefit
+shorts_007,보온 도시락통,점심시간 만족도 달라짐,보온 안 되면 진짜 손해,,review,bottom_big,approved,benefit,loss
+shorts_008,욕실 미끄럼방지 매트,넘어지기 전에 바꿔야 함,다들 욕실에서 놓치는 부분,,warning,center_focus,approved,warning,curiosity
+shorts_009,접이식 빨래바구니,작은 집에서 더 잘 쓰는 이유,이거 없으면 빨래가 쌓임,,info,top_big,approved,reason,loss
+shorts_010,USB 온열 조끼,생각보다 체감이 큽니다,겨울에 은근 많이 찾는 이유,,review,bottom_big,approved,curiosity,reason
+shorts_011,무선 전기포트,급할 때 진짜 차이 남,이 기능 빠지면 불편함,,review,bottom_big,approved,benefit,loss
+shorts_012,발열 담요,이거 하나로 밤이 달라짐,후회 적은 겨울템 공통점,,info,top_big,approved,curiosity,proof
+shorts_013,반려동물 털제거 롤러,털 청소 시간 줄어듦,써본 집은 다시 찾는 이유,,review,bottom_big,approved,benefit,reason
+shorts_014,휴대용 가습기,작아도 차이 나는 이유,싼 제품 먼저 사면 후회,,compare,center_focus,approved,reason,mistake
+shorts_015,침대 틈새 수납함,침실 정리가 쉬워지는 포인트,이거 빠지면 다시 어질러짐,,info,top_big,approved,benefit,loss
+shorts_016,전자레인지 용기세트,매일 쓰면 편한 게 중요함,괜히 디자인만 보면 손해,,review,bottom_big,approved,benefit,warning
+shorts_017,미니 온열방석,앉아보면 바로 느껴짐,겨울 사무실 필수템 이유,,review,bottom_big,approved,proof,reason
+shorts_018,차박 담요,보온 차이가 의외로 큼,추울 때 가장 먼저 후회하는 것,,compare,center_focus,approved,secret,mistake
+shorts_019,무선 센서등,밤에 진짜 편한 이유,이거 없으면 자꾸 불편함,,info,top_big,approved,reason,loss
+shorts_020,에어프라이어 종이호일,설거지 차이가 큽니다,한 번 쓰면 계속 찾게 됨,,review,bottom_big,approved,comparison,reaction
